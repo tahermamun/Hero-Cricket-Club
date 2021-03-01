@@ -1,0 +1,47 @@
+.team-summery {
+    margin: 10px;
+    background: #f0a500;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.team-summery h1 {
+    background-color: #8a2be2;
+    margin: 5px;
+    padding: 5px;
+    font-size: 35px;
+    border-radius: 15px;
+    color: #ffffff;
+}
+
+.team-summery h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.team-summery h3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.total-budget-box {
+    background: #FFFFFF;
+    padding: 0 10px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.team-summery-selected-player {
+    margin: 10px;
+    background: #e45826;
+    border-radius: 5px;
+    padding: 10px;
+}
+.team-summery-selected-player h2{
+    background-color: #8a2be2;
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 15px;
+    color: #ffffff;
+}

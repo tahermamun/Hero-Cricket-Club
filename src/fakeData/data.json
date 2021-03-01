@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Mashrafe Mortaza",
+        "picture": "https://i.ibb.co/b2GhbCH/Mashrafe-Mortaza.png",
+        "salary": 2500
+    },
+    {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "picture": "https://i.ibb.co/VTZHY7g/287.png",
+        "salary": 2300
+    },
+    {
+        "id": 3,
+        "name": "Mushfiqur Rahim",
+        "picture": "https://i.ibb.co/YT92SCd/491.png",
+        "salary": 2000
+    },
+    {
+        "id": 4,
+        "name": "Jasprit Bumrah",
+        "picture": "https://i.ibb.co/3BBvc38/1124.png",
+        "salary": 2250
+    },
+    {
+        "id": 5,
+        "name": "Mustafizur Rahman",
+        "picture": "https://i.ibb.co/MgNvcrr/1594.png",
+        "salary": 1850
+    },
+    {
+        "id": 6,
+        "name": "Sabbir Rahman",
+        "picture": "https://i.ibb.co/xsTPqvf/1734.png",
+        "salary": 1450
+    },
+    {
+        "id": 7,
+        "name": "Hardik Pandya",
+        "picture": "https://i.ibb.co/ydRrrt8/2740.png",
+        "salary": 1900
+    },
+    {
+        "id": 8,
+        "name": "AB de Villiers",
+        "picture": "https://i.ibb.co/fYGshdB/AB-DEVILIER.jpg",
+        "salary": 2050
+    },
+    {
+        "id": 9,
+        "name": "Ricky Ponting",
+        "picture": "https://i.ibb.co/YyC64G3/bb668069b1e513fa60c4101f95a641a0.png",
+        "salary": 2500
+    },
+    {
+        "id": 10,
+        "name": "Jason Roy",
+        "picture": "https://i.ibb.co/2nJM4pk/Jason-Roy.jpg",
+        "salary": 2450
+    },
+    {
+        "id": 11,
+        "name": "Taskin Ahmed",
+        "picture": "https://i.ibb.co/r7cFMWk/Taskin-Ahmed-Ct17.png",
+        "salary": 1000
+    },
+    {
+        "id": 12,
+        "name": "Kagiso Rabada",
+        "picture": "https://i.ibb.co/5hqsyfc/Kagiso-Rabada-T2018.png",
+        "salary": 1600
+    },
+    {
+        "id": 13,
+        "name": "Moeen Ali",
+        "picture": "https://i.ibb.co/1MF19WM/Moeen-Ali-CWC19.png",
+        "salary": 1900
+    },
+    {
+        "id": 14,
+        "name": "Shakib Al Hasan",
+        "picture": "https://i.ibb.co/bQ1PKGD/shakib-ul-hassan.jpg",
+        "salary": 3000
+    },
+    {
+        "id": 15,
+        "name": "Shikhar Dhawan",
+        "picture": "https://i.ibb.co/Xz3BV5f/Shikhar-Dhawan.jpg",
+        "salary": 2400
+    }
+]
