@@ -2,7 +2,7 @@ import React from 'react';
 import './CartPlayerDetails.css'
 const CartPlayerDetails = (props) => {
     //Get Selected Player Name and Salary by props
-    const { name, salary}=props.PlayerDetails
+    const { name, salary } = props.PlayerDetails
     return (
         // Selected Player Information div
         <div className='selected-team-player-details'>

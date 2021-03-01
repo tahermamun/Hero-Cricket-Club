@@ -1,4 +1,5 @@
 /* Player Cart Summery Section style start */
+
 .team-summery {
     margin: 10px;
     background: #f0a500;
@@ -38,7 +39,8 @@
     border-radius: 5px;
     padding: 10px;
 }
-.team-summery-selected-player h2{
+
+.team-summery-selected-player h2 {
     background-color: #8a2be2;
     margin: 5px;
     padding: 5px;

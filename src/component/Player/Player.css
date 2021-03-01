@@ -1,37 +1,42 @@
 /*Single Player Card Style Start */
-.player-card{
-align-items: center;
-background-color: #ebc95e;
-border-radius: 10px;
 
+.player-card {
+    align-items: center;
+    background-color: #ebc95e;
+    border-radius: 10px;
 }
-.player-card img{
+
+.player-card img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
     background: #ffffff;
 }
 
-.player-card-body{
+.player-card-body {
     padding: 10px;
 }
-.player-card-body h3{
+
+.player-card-body h3 {
     font-size: 30px;
 }
-.player-card-body p{
+
+.player-card-body p {
     font-size: 18px;
-    color: #000000 ;
+    color: #000000;
 }
 
-.add-player-button{
-    padding:5px 10px;
+.add-player-button {
+    padding: 5px 10px;
     border: none;
     border-radius: 5px;
     background-color: #a48c5e;
     color: #eeecec;
 }
-.add-player-button:hover{
+
+.add-player-button:hover {
     background-color: #f3a412;
     color: #000000;
 }
+
 /*Single Player Card Style End */

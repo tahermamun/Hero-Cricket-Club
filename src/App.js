@@ -6,7 +6,6 @@ import PlayerCart from "./component/PlayerCart/PlayerCart";
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 
-
 function App() {
   // state use for all Player Section
   const [player, setPlayer] = useState([])
@@ -31,7 +30,7 @@ function App() {
       <div className="d-flex">
         {/* Random 15 player div */}
         <div className="player-card-container">
-{/*Get Player information using map function */}
+          {/*Get Player information using map function */}
           {
             player.map(player => <Player key={player.id} player={player} handleAddPlayer={handleAddPlayer}></Player>)
 

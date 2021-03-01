@@ -5,17 +5,17 @@ import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 
 const Player = (props) => {
     //Get Player information by props
-    const {name, picture, salary}= props.player
+    const { name, picture, salary } = props.player
     return (
         // single Player Card
         <div className="player-card  p-2">
-           <img src={picture} alt=""/>
+            <img src={picture} alt="" />
             <div className='player-card-body' >
-            <h3>{name}</h3>
-            <p>Salary: ${salary}</p>
-            <button className="add-player-button" onClick={()=>props.handleAddPlayer(props.player)}><FontAwesomeIcon icon={faUserPlus} /> Add Player</button>
+                <h3>{name}</h3>
+                <p>Salary: ${salary}</p>
+                <button className="add-player-button" onClick={() => props.handleAddPlayer(props.player)}><FontAwesomeIcon icon={faUserPlus} /> Add Player</button>
             </div>
-            
+
         </div>
     );
 };
