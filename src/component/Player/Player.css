@@ -1,3 +1,4 @@
+/*Single Player Card Style Start */
 .player-card{
 align-items: center;
 background-color: #ebc95e;
@@ -33,3 +34,4 @@ border-radius: 10px;
     background-color: #f3a412;
     color: #000000;
 }
+/*Single Player Card Style End */

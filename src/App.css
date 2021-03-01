@@ -1,16 +1,30 @@
-*{
+/* global style */
+
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-/* .body-container{
-  display: flex;
-  
-} */
 
-.player-card-container{
+.main-container {
+  background-color: #3abec0;
+  text-align: center;
+}
+
+/* Website heading */
+
+.main-container .heading {
+  padding: 25px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 75px;
+}
+
+/* Player Card Section */
+
+.player-card-container {
   width: 75%;
-  border-right:1px solid gray ;
+  border-right: 1px solid gray;
   text-align: center;
   background-color: #03475e;
   padding: 50px;
@@ -19,19 +33,10 @@
   grid-gap: 20px;
 }
 
-.selected-player-container{
+/* Player Cart section */
+
+.selected-player-container {
   width: 25%;
   text-align: center;
   background-color: #4a3933;
-}
-.main-container{
-background-color: #3abec0;
-text-align: center;
-}
-
-.main-container .heading{
-  padding: 25px;
-  color: #ffffff;
-  font-weight: 600;
-  font-size: 75px;
 }

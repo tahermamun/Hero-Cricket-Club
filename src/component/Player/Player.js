@@ -4,8 +4,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 
 const Player = (props) => {
+    //Get Player information by props
     const {name, picture, salary}= props.player
     return (
+        // single Player Card
         <div className="player-card  p-2">
            <img src={picture} alt=""/>
             <div className='player-card-body' >
