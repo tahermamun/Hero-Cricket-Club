@@ -23,6 +23,9 @@
 * Customer can buy players for the club
 * Customer can see the selected player
 * Customer can see the total budget
+* Customer can see Player Selary
+* Customer can see total player
+* One of the most interensting feature is customer can buy multiple player
 
 
 # Developer-Comment: 
